@@ -20,3 +20,5 @@ This repository is unlicensed and as such code reuse is prohibited.
 🟡: To Start
 
 🟢: Ignore ATM
+
+currently on week 2 of the 405 book
